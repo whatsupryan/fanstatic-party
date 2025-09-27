@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+header{
+    background-color: #00008B;
+    color:white;
+    padding: 7px;
+
+}
+
+a{
+   color: white; 
+}
+
+h1{
+   background-color: #00FFFF;
+   color:#0000CD; 
+   text-align: center;
+}
+
+
+footer{
+    background-color: bisque;
+    padding: 9px;
+}
+
+footer p{
+    background-color: white;
+    padding: 5px;
+}
+nav{
+    background-color: green;
+    padding: 4px;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 8px;
+    
+}
+
+
+.products{
+    border: 3px #00008B solid;
+    border-radius: 10px;
+    padding: 4px;
+}
+
+h2{
+    color: blue;
+}
+
+
+header a{
+    padding: 3px;
+    border: 3px solid white;
+    border-radius: 6px;
+    margin: 7px;
+    text-decoration: none;
+}
